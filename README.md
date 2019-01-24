@@ -1,1 +1,1 @@
-# foundation for email+gulp+scss
+# foundation+gulp+scss
