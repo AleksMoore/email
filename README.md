@@ -1,2 +1,1 @@
-# email
-Mailing
+# foundation for email+gulp+scss
