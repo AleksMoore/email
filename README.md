@@ -2,5 +2,5 @@
 
 <h2>Project setup and start</h2>
 
-<pre>npm install</pre>
-<pre>gulp</pre>
+<pre>npm install<br>
+gulp</pre>
